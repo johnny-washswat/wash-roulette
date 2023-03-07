@@ -34,7 +34,7 @@ const rouletteArray = [
   "Item 5",
   "Item 6",
 ];
-
+//roulettes based on the weighted
 const getTargetIndex = (items, weights) => {
   // execute weighted item picker algorithm
 
